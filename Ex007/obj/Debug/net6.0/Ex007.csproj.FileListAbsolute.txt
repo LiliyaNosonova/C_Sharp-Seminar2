@@ -1,0 +1,15 @@
+D:\GB\4. C#\Seminar 2\Examples\Ex007\bin\Debug\net6.0\Ex007.exe
+D:\GB\4. C#\Seminar 2\Examples\Ex007\bin\Debug\net6.0\Ex007.deps.json
+D:\GB\4. C#\Seminar 2\Examples\Ex007\bin\Debug\net6.0\Ex007.runtimeconfig.json
+D:\GB\4. C#\Seminar 2\Examples\Ex007\bin\Debug\net6.0\Ex007.dll
+D:\GB\4. C#\Seminar 2\Examples\Ex007\bin\Debug\net6.0\Ex007.pdb
+D:\GB\4. C#\Seminar 2\Examples\Ex007\obj\Debug\net6.0\Ex007.csproj.AssemblyReference.cache
+D:\GB\4. C#\Seminar 2\Examples\Ex007\obj\Debug\net6.0\Ex007.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\4. C#\Seminar 2\Examples\Ex007\obj\Debug\net6.0\Ex007.AssemblyInfoInputs.cache
+D:\GB\4. C#\Seminar 2\Examples\Ex007\obj\Debug\net6.0\Ex007.AssemblyInfo.cs
+D:\GB\4. C#\Seminar 2\Examples\Ex007\obj\Debug\net6.0\Ex007.csproj.CoreCompileInputs.cache
+D:\GB\4. C#\Seminar 2\Examples\Ex007\obj\Debug\net6.0\Ex007.dll
+D:\GB\4. C#\Seminar 2\Examples\Ex007\obj\Debug\net6.0\refint\Ex007.dll
+D:\GB\4. C#\Seminar 2\Examples\Ex007\obj\Debug\net6.0\Ex007.pdb
+D:\GB\4. C#\Seminar 2\Examples\Ex007\obj\Debug\net6.0\Ex007.genruntimeconfig.cache
+D:\GB\4. C#\Seminar 2\Examples\Ex007\obj\Debug\net6.0\ref\Ex007.dll
